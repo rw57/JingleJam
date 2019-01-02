@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 168.93343 85.676538"
+   height="323.81683"
+   width="638.48853">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(1.1959339,-140.72105)"
+     id="layer1">
+    <path
+       style="fill:#af0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       d="M 70.956442,208.40467 46.693201,203.75462 29.107409,221.10592 26.032108,196.59327 4.0957327,185.23003 26.458333,174.73042 30.4867,150.35626 47.382848,168.37979 71.80889,164.67897 59.888684,186.31774 Z"
+       id="path3713" />
+    <path
+       transform="rotate(26.605359,-224.71483,74.668679)"
+       style="fill:#5ac500;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       d="M 112.37913,64.711456 88.115888,60.061414 70.530096,77.412714 67.454796,52.900059 45.51842,41.536823 67.881021,31.037211 71.909387,6.6630454 88.805535,24.686584 113.23158,20.985757 101.31137,42.624528 Z"
+       id="path3713-3" />
+    <path
+       style="fill:#af0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       d="m 122.48982,204.06113 -24.263237,-4.65004 -17.585792,17.3513 -3.075301,-24.51266 -21.936375,-11.36323 22.362601,-10.49961 4.028366,-24.37417 16.896148,18.02354 24.42604,-3.70083 -11.9202,21.63877 z"
+       id="path3713-6" />
+    <path
+       transform="rotate(26.605359,-199.21437,204.75208)"
+       style="fill:#5ac500;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       d="M 112.37913,64.711456 88.115888,60.061414 70.530096,77.412714 67.454796,52.900059 45.51842,41.536823 67.881021,31.037211 71.909387,6.6630454 88.805535,24.686584 113.23158,20.985757 101.31137,42.624528 Z"
+       id="path3713-3-7" />
+    <text
+       id="text4567"
+       y="191.96844"
+       x="77.370583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.81111145px;line-height:1.25;font-family:'Mountains of Christmas';-inkscape-font-specification:'Mountains of Christmas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.81111145px;font-family:'Mountains of Christmas';-inkscape-font-specification:'Mountains of Christmas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         y="191.96844"
+         x="77.370583"
+         id="tspan4565">Jingle Jam!</tspan></text>
+    <text
+       id="text4567-4"
+       y="192.21588"
+       x="77.607925"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.10555649px;line-height:1.25;font-family:'Mountains of Christmas';-inkscape-font-specification:'Mountains of Christmas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.96470588;stroke:none;stroke-width:0.26458332;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.10555649px;font-family:'Mountains of Christmas';-inkscape-font-specification:'Mountains of Christmas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.96470588;stroke-width:0.26458332;"
+         y="192.21588"
+         x="77.607925"
+         id="tspan4565-1">Jingle Jam!</tspan></text>
+  </g>
+</svg>

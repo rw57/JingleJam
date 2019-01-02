@@ -1,0 +1,28 @@
+-,start,play 'ShoutForJoy.ogg'
+#include,common.ls,
+0,defines,definelevel introbeat candledr candlehr candlecenter candlegr candlelr liltrees door
+0,defines,definechase intro deer trees bushcolor bushwhite columns iciclesides
+0,defines,definelevel bridgebeat bushcolorl bushcolorr bushwhitel bushwhiter liltrees door
+0,defines,definechase bridgemelody iciclesidel candlel candlecenter candler iciclesider
+0,defines,definechase shout icicletop iciclesides candles bushwhite deer trees
+0,defines,definechase verse candlehr candlecenter candlegr candlelr bushwhiter liltrees door bushwhitel candledr
+0,defines,definechase candlerand candlehr candlecenter candlegr candlelr candledr liltrees
+0,defines,definelevel chorusm deer trees bushwhite candlebottom liltrees door candletop
+#include,ShoutForJoy-melody.csv,
+#include,ShoutForJoy-beat.csv,
+#include,ShoutForJoy-beat2.csv,
+5,setup,all off,starprojector off,twinkle off,bushwhite off,bushcolor off,snowprojector off
+1394,intro-a,starprojector on
+15062,intro-b,starprojector off,twinkle on
+29732,intro-c,twinkle off
+44034,verse1,twinkle on
+76228,chorus,twinkle off
+105041,interlude,
+108563,verse2,twinkle on
+140706,chorus,twinkle off
+169419,bridge-instrumental,
+198077,bridge-voice,
+224963,interlude,
+226724,chorus,
+255493,ending,twinkle on
+266000,end,twinkle off,starprojector off,all off
